@@ -102,14 +102,6 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Mi primer Portfolio",
-    description:
-      "Mi primer portfolio, producto de mi primera capacitación, destacando los conocimientos recién adquiridos. Cada proyecto refleja mi dedicación y crecimiento, marcando el inicio de mi trayectoria profesional",
-    tags: ["React", "CSS Nativo"],
-    imageUrl: primerPortfolio,
-    link: "https://64ff390505e2891c04d49721--inquisitive-kheer-6f9b50.netlify.app/"
-  },  
-  {
     title: "Landing Page Restaurant",
     description:
       "Mi última creación en la que estuve trabajando, una landing page para restaurant que combina diseño innovador y funcionalidad",
