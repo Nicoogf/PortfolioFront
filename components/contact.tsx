@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 import { useSectionInView } from "@/lib/hooks"; 
 import { BiLogoInstagram } from "react-icons/bi"
 import { AiOutlineWhatsApp } from "react-icons/ai"
-import { CiMail } from "react-icons/Ci"
+import { CiMail } from "react-icons/ci"
 
 
 export default function Contact() {
